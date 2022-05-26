@@ -1,0 +1,130 @@
+pkey,created_on,last_updated_on,version,category,competition_id,country,end_date,match_format,name,no_of_matches,no_of_rounds,no_of_teams,season,short_name,src_id,start_date
+1,"2021-02-14 23:31:18","2021-02-14 23:58:14",3,domestic,IPL,in,2019-05-17,t20,"Indian Premier League",60,5,9,2019,ipl-2019,112588,2019-03-23
+2,"2021-02-14 23:35:15","2021-02-14 23:58:16",3,domestic,IPL,in,2020-11-10,t20,"Indian Premier League",60,1,8,2020,ipl-2020,116699,2020-09-19
+3,"2021-02-14 23:37:49","2021-02-14 23:58:18",3,domestic,IPL,in,2018-05-27,t20,"Indian Premier League - IPL",60,5,9,2018,IPL-2018,111146,2018-04-07
+4,"2021-02-14 23:40:23","2021-02-14 23:58:20",3,international,T20I,int,2018-06-18,mixed,"Afghanistan tour of India",4,2,3,2018,atoi-18,111120,2018-06-03
+5,"2021-02-14 23:40:34","2021-02-14 23:58:21",3,international,T20I,int,2018-08-31,mixed,"Afghanistan tour of Ireland",6,2,2,2018,atoi-18,111472,2018-08-20
+6,"2021-02-14 23:40:44","2021-02-14 23:58:21",3,international,T20I,int,2018-02-19,mixed,"Afghanistan tour of United Arab Emirates",11,3,4,2017/18,atouae-1718,108613,2017-12-05
+7,"2021-02-14 23:40:54","2021-02-14 23:58:22",3,international,T20I,int,2019-03-21,mixed,"Afghanistan vs Ireland in India",9,3,2,2018/19,itoi-1819,112297,2019-02-23
+8,"2021-02-14 23:41:09","2021-02-14 23:58:22",3,international,T20I,int,2020-03-10,t20i,"Afghanistan vs Ireland T20I Series",3,1,2,2020,itoi-201920,114527,2020-03-06
+9,"2021-02-14 23:41:21","2021-02-14 23:58:23",3,international,T20I,int,2019-12-01,mixed,"Afghanistan vs West Indies",7,3,2,2019,atoi-201920,113831,2019-11-05
+10,"2021-02-14 23:41:33","2021-02-14 23:58:24",3,international,T20I,int,2018-06-27,mixed,"Australia tour of England",6,2,2,2018,atoe-18,111122,2018-06-13
+11,"2021-02-14 23:41:41","2021-02-14 23:58:24",3,international,T20I,int,2020-09-16,mixed,"Australia tour of England",6,2,3,2020,atosae-2020,116507,2020-09-04
+12,"2021-02-14 23:41:52","2021-02-14 23:58:25",3,international,T20I,int,2017-10-13,mixed,"Australia tour of India",9,2,3,2017/18,atoi-1718,104964,2017-09-17
+13,"2021-02-14 23:41:59","2021-02-14 23:58:25",3,international,T20I,int,2019-03-13,mixed,"Australia tour of India",7,2,2,2018/19,atoi-1819,112302,2019-02-24
+14,"2021-02-14 23:42:09","2021-02-14 23:58:26",3,international,T20I,int,2020-03-29,t20i,"Australia tour of New Zealand",3,1,2,2020,atonz-201920,113456,2020-03-24
+15,"2021-02-14 23:42:12","2021-02-14 23:58:27",3,international,T20I,int,2020-03-07,mixed,"Australia tour of South Africa",6,2,2,2020,atosa-201920,113460,2020-02-21
+16,"2021-02-14 23:42:23","2021-02-14 23:58:27",3,international,T20I,int,2019-11-26,mixed,"Bangladesh tour of India",5,2,2,2019,btoi-201920,113453,2019-11-03
+17,"2021-02-14 23:42:34","2021-02-14 23:58:28",3,international,T20I,int,2019-03-20,mixed,"Bangladesh tour of New Zealand",6,2,2,2018/19,btonz-1819,111623,2019-02-13
+18,"2021-02-14 23:42:34","2021-02-14 23:58:28",3,international,T20I,int,2020-04-09,t20i,"Bangladesh tour of Pakistan",6,2,2,2020,btop-201920,114293,2020-01-24
+19,"2021-02-14 23:42:45","2021-02-14 23:58:29",3,international,T20I,int,2017-10-29,mixed,"Bangladesh tour of South Africa",9,3,3,2017/18,btosa-1718,90700,2017-09-21
+20,"2021-02-14 23:42:54","2021-02-14 23:58:29",3,international,T20I,int,2018-08-05,mixed,"Bangladesh tour of West Indies and United States of America",9,3,4,2018,btowiausoa-18,111266,2018-07-04
+21,"2021-02-14 23:43:05","2021-02-14 23:58:30",3,international,T20I,int,2019-09-24,t20i,"Bangladesh Twenty20 Tri-Series",7,2,3,2019,btt-2019,113621,2019-09-13
+22,"2021-02-14 23:43:21","2021-02-14 23:58:31",3,international,T20I,int,2021-03-28,mixed,"England tour of India",12,3,2,2021,etoi-202021,117665,2021-02-05
+23,"2021-02-14 23:43:25","2021-02-14 23:58:31",3,international,T20I,int,2018-04-03,mixed,"England tour of New Zealand",29,2,7,2017/18,etoaanz-1718,90715,2017-11-23
+24,"2021-02-14 23:43:41","2021-02-14 23:58:32",3,international,T20I,int,2019-12-03,mixed,"England tour of New Zealand",10,2,4,2019,etonz-201920,113463,2019-10-27
+25,"2021-02-14 23:43:55","2021-02-14 23:58:33",3,international,T20I,int,2020-02-16,mixed,"England tour of South Africa",14,5,4,2019,etosa-201920,113474,2019-12-17
+26,"2021-02-14 23:44:03","2021-02-14 23:58:33",3,international,T20I,int,2020-12-09,mixed,"England tour of South Africa",8,4,4,2020,etosa-202021,116959,2020-11-21
+27,"2021-02-14 23:44:15","2021-02-14 23:58:34",3,international,T20I,int,2018-11-27,mixed,"England tour of Sri Lanka",9,3,2,2018/19,etosl-1819,111297,2018-10-10
+28,"2021-02-14 23:44:21","2021-02-14 23:58:34",3,international,T20I,int,2019-03-10,mixed,"England tour of West Indies",11,3,3,2018/19,etowi-1819,111616,2019-01-15
+29,"2021-02-14 23:44:31","2021-02-14 23:58:35",3,international,T20I,int,2020-11-15,t20i,"ICC Men's T20 World Cup",45,0,17,2020,imtwc-202021,115744,2020-10-18
+30,"2021-02-14 23:45:00","2021-02-14 23:58:36",3,international,T20I,int,2018-05-31,t20i,"ICC World XI tour of England",1,1,2,2018,iwxtoe-18,111222,2018-05-31
+31,"2021-02-14 23:45:07","2021-02-14 23:58:37",3,international,T20I,int,2019-01-18,mixed,"India tour of Australia",10,3,2,2018/19,itoa-1819,111301,2018-11-21
+32,"2021-02-14 23:45:15","2021-02-14 23:58:38",3,international,T20I,int,2021-01-17,mixed,"India tour of Australia",12,4,4,2020,india-in-australia-2020-21,116925,2020-12-03
+33,"2021-02-14 23:45:22","2021-02-14 23:58:38",3,international,T20I,int,2018-09-11,t20i,"India tour of England",14,4,4,2018,itoiae-18,111127,2018-06-27
+34,"2021-02-14 23:45:32","2021-02-14 23:58:39",3,international,T20I,int,2019-02-19,mixed,"India tour of New Zealand",8,2,2,2018/19,itonz-1819,111620,2019-01-23
+35,"2021-02-14 23:45:39","2021-02-14 23:58:39",3,international,T20I,int,2020-03-04,mixed,"India tour of New Zealand",11,3,3,2020,itonz-201920,113467,2020-01-24
+36,"2021-02-14 23:45:55","2021-02-14 23:58:40",3,international,T20I,int,2018-02-24,mixed,"India tour of South Africa",12,3,2,2017/18,itosa-1718,108342,2017-12-30
+37,"2021-02-14 23:46:02","2021-02-14 23:58:41",3,international,T20I,int,2019-10-04,mixed,"India tour of West Indies",8,3,2,2019,itousoaawi-2019,113394,2019-08-03
+38,"2021-02-14 23:46:12","2021-02-14 23:58:41",3,international,T20I,int,2020-01-19,mixed,"Ireland tour of West Indies",7,2,4,2020,itowi-201920,114114,2020-01-07
+39,"2021-02-14 23:46:21","2021-02-14 23:58:42",3,international,T20I,int,2020-01-07,mixed,"New Zealand tour of Australia",3,1,2,2019,nztoa-201920,113476,2019-12-12
+40,"2021-02-14 23:46:21","2021-02-14 23:58:42",3,international,T20I,int,2017-11-07,mixed,"New Zealand tour of India",8,2,3,2017/18,nztoi-1718,106476,2017-10-22
+41,"2021-02-14 23:46:30","2021-02-14 23:58:43",3,international,T20I,int,2019-09-06,mixed,"New Zealand tour of Sri Lanka",5,2,2,2019,nztosl-2019,113452,2019-08-08
+42,"2021-02-14 23:46:39","2021-02-14 23:58:44",3,international,T20I,int,2018-12-07,mixed,"New Zealand tour of United Arab Emirates",9,3,2,2018/19,nztouae-1819,111608,2018-10-31
+43,"2021-02-14 23:58:44","2021-02-14 23:58:44",1,international,T20I,int,2020-09-02,mixed,"Pakistan tour England",6,2,2,2020,ptoniae-2020,115941,2020-07-04
+44,"2021-02-14 23:58:56","2021-02-14 23:58:56",1,international,T20I,int,2019-12-02,mixed,"Pakistan tour of Australia",6,2,3,2019,ptoa-201920,113471,2019-11-03
+45,"2021-02-14 23:59:09","2021-02-14 23:59:09",1,international,T20I,int,2019-05-19,mixed,"Pakistan tour of England",9,3,6,2019,ptoe-2019,111626,2019-04-27
+46,"2021-02-14 23:59:21","2021-02-14 23:59:21",1,international,T20I,int,2018-06-10,mixed,"Pakistan tour of Ireland, England and Scotland",5,3,4,2018,ptoieas-18,111132,2018-05-11
+47,"2021-02-14 23:59:31","2021-02-14 23:59:31",1,international,T20I,int,2018-01-28,mixed,"Pakistan tour of New Zealand",9,2,3,2017/18,ptonz-1718,106501,2018-01-03
+48,"2021-02-14 23:59:39","2021-02-14 23:59:39",1,international,T20I,int,2021-01-07,mixed,"Pakistan tour of New Zealand",5,2,2,2020,ptonz-202021,116962,2020-12-18
+49,"2021-02-14 23:59:47","2021-02-14 23:59:47",1,international,T20I,int,2019-02-06,mixed,"Pakistan tour of South Africa",11,3,3,2018/19,ptosa-1819,111307,2018-12-19
+50,"2021-02-14 23:59:54","2021-02-14 23:59:54",1,international,T20I,int,2017-10-29,t20i,"Pakistan tour of United Arab Emirates",10,3,2,2017/18,ptouae-1718,106486,2017-09-28
+51,"2021-02-15 00:00:09","2021-02-15 00:00:09",1,international,T20I,int,2018-11-17,mixed,"South Africa tour of Australia",4,2,3,2018/19,satoa-1819,111311,2018-10-31
+52,"2021-02-15 00:00:14","2021-02-15 00:00:14",1,international,T20I,int,2019-10-23,mixed,"South Africa tour of India",6,2,2,2019,satoi-201920,113479,2019-09-15
+53,"2021-02-15 00:00:22","2021-02-15 00:00:22",1,international,T20I,int,2021-02-14,mixed,"South Africa tour of Pakistan",5,2,2,2021,satop-202021,117676,2021-01-26
+54,"2021-02-15 00:00:40","2021-02-15 00:00:40",1,international,T20I,int,2018-08-14,mixed,"South Africa Tour of Sri Lanka",10,3,3,2018,satosl-18,111270,2018-07-07
+55,"2021-02-15 00:00:46","2021-02-15 00:00:46",1,international,T20I,int,2019-11-01,t20i,"Sri Lanka tour of Australia",4,1,3,2019,sltoa-201920,113483,2019-10-27
+56,"2021-02-15 00:01:04","2021-02-15 00:01:04",1,international,T20I,int,2018-02-18,mixed,"Sri Lanka Tour of Bangladesh",9,2,3,2017/18,sltob-1718,108887,2018-01-17
+57,"2021-02-15 00:01:11","2021-02-15 00:01:11",1,international,T20I,int,2017-12-24,mixed,"Sri Lanka tour of India",10,3,3,2017/18,sltoi-1718,108474,2017-11-16
+58,"2021-02-15 00:01:18","2021-02-15 00:01:18",1,international,T20I,int,2020-01-10,t20i,"Sri Lanka tour of India",3,1,2,2020,sltoi-201920,114112,2020-01-05
+59,"2021-02-15 00:01:24","2021-02-15 00:01:24",1,international,T20I,int,2019-01-11,mixed,"Sri Lanka tour of New Zealand",6,3,2,2018/19,sltonz-1819,111612,2018-12-15
+60,"2021-02-15 00:01:26","2021-02-15 00:01:26",1,international,T20I,int,2019-10-09,mixed,"Sri Lanka tour of Pakistan",6,2,2,2019,sltop-201920,113687,2019-09-27
+61,"2021-02-15 00:01:33","2021-02-15 00:01:33",1,international,T20I,int,2019-03-24,mixed,"Sri Lanka tour of South Africa",10,3,3,2018/19,sltosa-1819,111316,2019-02-13
+62,"2021-02-15 00:01:41","2021-02-15 00:01:41",1,international,T20I,int,2018-02-21,t20i,"Twenty20 Tri Series",7,2,3,2017/18,tts-1718,90714,2018-02-03
+63,"2021-02-15 00:01:46","2021-02-15 00:01:46",1,international,T20I,int,2018-12-22,mixed,"West Indies tour of Bangladesh",8,3,4,2018/19,witob-1819,111475,2018-09-18
+64,"2021-02-15 00:01:52","2021-02-15 00:01:52",1,international,T20I,int,2021-02-15,mixed,"West Indies Tour of Bangladesh",6,2,3,2021,WB21,118004,2021-01-20
+65,"2021-02-15 00:01:52","2021-02-15 00:01:52",1,international,T20I,int,2018-11-11,mixed,"West Indies tour of India",10,3,2,2018/19,witoi-1819,111604,2018-10-04
+66,"2021-02-15 00:01:57","2021-02-15 00:01:57",1,international,T20I,int,2019-12-22,mixed,"West Indies tour of India",6,2,3,2019,witoi-201920,113485,2019-12-06
+67,"2021-02-15 00:02:06","2021-02-15 00:02:06",1,international,T20I,int,2018-01-03,mixed,"West Indies tour of New Zealand",10,3,4,2017/18,witonz-1718,106490,2017-11-25
+68,"2021-02-15 00:02:15","2021-02-15 00:02:15",1,international,T20I,int,2020-12-15,mixed,"West Indies tour of New Zealand",7,3,3,2020,witonz-202021,116956,2020-11-19
+69,"2021-02-15 00:02:21","2021-02-15 00:02:21",1,international,T20I,int,2018-04-04,t20i,"West Indies tour of Pakistan",3,1,2,2018,witop-18,111213,2018-04-01
+70,"2021-02-15 00:02:28","2021-02-15 00:02:28",1,international,T20I,int,2020-03-06,mixed,"West Indies tour of Sri Lanka",7,3,5,2020,witosl-201920,114422,2020-02-16
+71,"2021-02-15 00:02:36","2021-02-15 00:02:36",1,international,T20I,int,2018-11-15,mixed,"Zimbabwe tour of Bangladesh",6,2,3,2018/19,ztob-1819,111601,2018-10-19
+72,"2021-02-15 00:02:36","2021-02-15 00:02:36",1,international,T20I,int,2020-03-11,mixed,"Zimbabwe tour of Bangladesh",7,3,4,2020,ztob-201920,114425,2020-02-18
+73,"2021-02-15 00:02:43","2021-02-15 00:02:43",1,international,T20I,int,2020-11-10,mixed,"Zimbabwe tour of Pakistan",6,2,2,2020,ztop-202021,116877,2020-10-30
+74,"2021-02-15 00:02:52","2021-02-15 00:02:52",1,international,T20I,int,2018-10-14,mixed,"Zimbabwe tour of South Africa",6,2,2,2018/19,ztosa-1819,111294,2018-09-30
+75,"2021-02-15 00:02:58","2021-02-15 00:02:58",1,international,T20I,int,2018-07-22,t20i,"ZIMBABWE TWENTY20 TRI-SERIES",7,2,4,2018,ptoz-18,111251,2018-07-01
+76,"2021-02-15 00:03:14","2021-02-15 00:03:14",1,domestic,BBL,au,2018-02-04,t20,"Big Bash League",43,3,8,2017/18,bbl-1718,104945,2017-12-19
+77,"2021-02-15 00:05:00","2021-02-15 00:05:00",1,domestic,BBL,au,2019-02-17,t20,"Big Bash League",59,3,9,2018/19,bbl-1819,111481,2018-12-19
+78,"2021-02-15 00:07:11","2021-02-15 00:07:11",1,domestic,BBL,au,2020-02-08,t20,"Big Bash League",61,1,9,2019,bbl-201920,113934,2019-12-17
+79,"2021-02-15 00:09:19","2021-02-15 00:09:19",1,domestic,BBL,int,2021-02-06,t20,"Big Bash League",61,1,8,2020,bbl2020,117103,2020-12-10
+80,"2021-02-15 00:11:37","2021-02-15 00:11:37",1,domestic,CPL,wi,2018-09-16,t20,"Caribbean Premier League",34,5,7,2018,cpl-18,111293,2018-08-08
+81,"2021-02-15 00:12:59","2021-02-15 00:12:59",1,domestic,CPL,wi,2019-10-12,t20,"Caribbean Premier League",34,5,6,2019,cpl-2019,113595,2019-09-04
+82,"2021-02-15 00:14:25","2021-02-15 00:14:25",1,domestic,CPL,wi,2020-09-10,t20,"Caribbean Premier League",33,1,6,2020,cpl-2020,116262,2020-08-18
+83,"2021-02-15 00:15:38","2021-02-15 00:15:38",1,domestic,MSL,za,2018-12-16,t20,"Mzansi Super League",32,3,7,2018/19,msl-1819,111906,2018-11-16
+84,"2021-02-15 00:16:52","2021-02-15 00:16:52",1,domestic,MSL,za,2019-12-16,t20,"Mzansi Super League",32,1,7,2019,msl-201920,113836,2019-11-08
+85,"2021-02-15 00:17:55","2021-02-15 00:17:55",1,domestic,PSL,pk,2019-03-17,t20,"Pakistan Super League",34,5,7,2018/19,psl-1819,112243,2019-02-14
+86,"2021-02-15 00:19:17","2021-02-15 00:19:17",1,domestic,PSL,pk,2020-11-17,t20,"Pakistan Super League",37,1,7,2020,psl-201920,114421,2020-02-20
+87,"2021-02-15 00:20:29","2021-02-15 00:20:29",1,domestic,PSL,pk,2018-03-25,t20,"Pakistan Super League - PSL",34,5,6,2017/18,psl-1718,108677,2018-02-22
+88,"2021-02-15 00:21:42","2021-02-15 00:21:42",1,domestic,T20Blast,en,2019-09-21,t20,"Vitality Blast",133,5,18,2019,vb-2019,113331,2019-07-18
+89,"2021-02-15 00:26:28","2021-02-15 00:26:28",1,domestic,T20Blast,en,2020-10-04,t20,"Vitality Blast",97,3,19,2020,vb-2020,116506,2020-08-27
+90,"2021-02-15 00:30:23","2021-02-15 00:30:23",1,domestic,T20Blast,en,2018-09-15,t20,"Vitality T20 Blast",133,5,19,2018,ntb-18,111131,2018-07-04
+91,"2021-02-15 00:34:31","2021-02-15 00:34:31",1,domestic,APL,af,2018-10-21,t20,"Afghanistan Premier League",23,4,6,2018/19,APL,111751,2018-10-05
+92,"2021-02-15 00:35:17","2021-02-15 00:35:17",1,domestic,BPL,bd,2017-12-12,t20,"Bangladesh Premier League",46,3,8,2017/18,bpl-1718,107368,2017-11-03
+93,"2021-02-15 00:37:12","2021-02-15 00:37:12",1,domestic,BPL,bd,2019-02-09,t20,"Bangladesh Premier League",46,5,8,2018/19,bpl-1819,112162,2019-01-05
+94,"2021-02-15 00:38:55","2021-02-15 00:38:55",1,domestic,BPL,bd,2020-01-18,t20,"Bangladesh Premier League",46,1,8,2019,bpl-201920,113935,2019-12-11
+95,"2021-02-15 00:40:26","2021-02-15 00:40:26",1,domestic,CSAT20,za,2019-05-05,t20,"CSA T20 Challenge",33,3,7,2019,ctc-1819,112797,2019-04-05
+96,"2021-02-15 00:41:41","2021-02-15 00:41:41",1,domestic,GT20,ca,2018-07-15,t20,"Global T20 Canada",22,6,7,2018,gtc-18,111353,2018-06-28
+97,"2021-02-15 00:42:34","2021-02-15 00:42:34",1,domestic,GT20,ca,2019-08-11,t20,"Global T20 Canada 2019",22,6,6,2019,GTC19,113379,2019-07-25
+98,"2021-02-15 00:43:19","2021-02-15 00:43:19",1,domestic,LPL,lk,2020-12-16,t20,"Lanka Premier League",23,2,5,2020,lpl-202021,117007,2020-11-21
+99,"2021-02-15 00:44:25","2021-02-15 00:44:25",1,domestic,NationalT20Pak,pk,2019-10-24,t20,"National T20 Cup",18,1,7,2019,ntc-201920,113751,2019-10-13
+100,"2021-02-15 00:45:09","2021-02-15 00:45:09",1,domestic,NationalT20Pak,pk,2020-10-18,t20,"National T20 Cup",33,1,7,2020,NTC20,116779,2020-09-30
+101,"2021-02-15 00:46:19","2021-02-15 00:46:19",1,domestic,RamSlamT20,za,2017-12-16,t20,"Ram Slam T20 Challenge",33,3,6,2017/18,rstc-1718,108609,2017-11-10
+102,"2021-02-15 00:47:09","2021-02-15 00:47:09",1,domestic,SMAT,in,2018-01-27,t20,"Inter State Twenty-20 Tournament",86,8,29,2017/18,istt-1718,108902,2018-01-07
+103,"2021-02-15 00:50:59","2021-02-15 00:50:59",1,domestic,SMAT,in,2019-03-14,t20,"Syed Mushtaq Ali Trophy",140,8,38,2018/19,smat-t20,112301,2019-02-21
+104,"2021-02-15 00:56:19","2021-02-15 00:56:19",1,domestic,SMAT,in,2019-12-01,t20,"Syed Mushtaq Ali Trophy",149,0,39,2019,smat-201920,113849,2019-11-08
+105,"2021-02-15 01:01:40","2021-02-15 01:01:40",1,domestic,SMAT,in,2021-01-31,t20,"Syed Mushtaq Ali Trophy",102,6,38,2021,SMT21,117429,2021-01-10
+106,"2021-02-15 01:06:08","2021-02-15 01:06:08",1,domestic,SS,nz,2018-01-14,t20,"Super Smash",32,3,6,2017/18,super-smash-2016-17,106485,2017-12-13
+107,"2021-02-15 01:07:20","2021-02-15 01:07:20",1,domestic,SS,nz,2019-02-17,t20,"Super Smash",32,3,7,2018/19,ss-1819,111881,2018-12-22
+108,"2021-02-15 01:08:37","2021-02-15 01:08:37",1,domestic,SS,nz,2020-01-19,t20,"Super Smash",32,1,7,2019,ss-201920,113933,2019-12-13
+109,"2021-02-15 01:09:37","2021-02-15 01:09:37",1,domestic,SS,nz,2021-02-14,t20,"Super Smash",32,1,6,2020,SS20,117202,2020-12-24
+110,"2021-02-15 01:10:42","2021-02-15 01:10:42",1,international,MISC,int,2018-08-03,t20i,"Nepal tour of England and Netherlands",5,2,3,2018,ntoean-18,111467,2018-08-01
+111,"2021-02-15 01:10:55","2021-02-15 01:10:55",1,international,MISC,int,2018-11-09,mixed,"New Zealand A tour of United Arab Emirates",8,3,2,2018/19,nzatouae-1819,111597,2018-10-12
+112,"2021-02-15 01:11:01","2021-02-15 01:11:01",1,international,MISC,int,2019-12-09,t20i,"South Asian Games Men's Cricket Competition",12,0,6,2019,sagmcc-201920,113952,2019-12-03
+113,"2021-02-15 01:11:42","2021-02-15 01:11:42",1,domestic,AfricaT20,NULL,2017-09-25,t20,"Africa T20 Cup",27,0,16,2017/18,atc-1718,108586,2017-08-25
+114,"2021-02-15 01:13:00","2021-02-15 01:13:00",1,domestic,AndhraT20,in,2020-11-10,t20,"Andhra T20 League",33,1,7,2020,ATL20,116888,2020-10-22
+115,"2021-02-15 01:14:31","2021-02-15 01:14:31",1,domestic,BangT20,bd,2020-12-18,t20,"Bangabandhu T20 Cup",24,2,6,2020,BBT20,117030,2020-11-24
+116,"2021-02-15 01:15:20","2021-02-15 01:15:20",1,domestic,BengalT20,in,2020-12-09,t20,"Bengal T20",33,2,6,2020,BET20,117050,2020-11-24
+117,"2021-02-15 01:16:53","2021-02-15 01:16:53",1,domestic,DhakaT20,bd,2019-03-03,t20,"Dhaka Twenty20 Cricket League",15,9,13,2018/19,dpdtcl-1819,112554,2019-02-25
+118,"2021-02-15 01:17:44","2021-02-15 01:17:44",1,domestic,JharkT20,in,2020-09-30,t20,"Jharkhand T20 League",33,0,6,2020,JTL20,116731,2020-09-15
+119,"2021-02-15 01:19:15","2021-02-15 01:19:15",1,domestic,KPL,in,2018-09-06,t20,"Karnataka Premier League",24,4,8,2018,kpl-18,111492,2018-08-15
+120,"2021-02-15 01:20:23","2021-02-15 01:20:23",1,domestic,KPL,in,2019-09-01,t20,"Karnataka Premier League",25,5,7,2019,kpl-2019,113514,2019-08-16
+121,"2021-02-15 01:21:22","2021-02-15 01:21:22",1,domestic,OdishaT20,in,2021-01-14,t20,"Odisha T20",34,1,7,2020,T20,117214,2020-12-27
+122,"2021-02-15 01:22:55","2021-02-15 01:22:55",1,domestic,PondyT20,in,2020-11-27,t20,"Siechem Pondicherry T20",36,1,6,2020,SPT20,116986,2020-11-11
+123,"2021-02-15 01:24:17","2021-02-15 01:24:17",1,domestic,SaurashtraPL,in,2019-05-22,t20,"Saurashtra Premier League",11,2,6,2019,SPL19,113045,2019-05-14
+124,"2021-02-15 01:24:17","2021-02-15 01:24:17",1,domestic,ShpageezaCL,af,2019-10-18,t20,"Shpageeza Cricket League",19,0,6,2019,scl-201920,113727,2019-10-07
+125,"2021-02-15 01:25:14","2021-02-15 01:25:14",1,domestic,ShpageezaCL,af,2020-09-16,t20,"Shpageeza Cricket League",19,1,7,2020,scl-2020,116632,2020-09-06
+126,"2021-02-15 01:26:14","2021-02-15 01:26:14",1,domestic,T20Mumbai,in,2019-05-26,t20,"T20 Mumbai",23,3,8,2019,TM19,113021,2019-05-14
+127,"2021-02-15 01:26:15","2021-02-15 01:26:15",1,domestic,TNPL,in,2018-08-12,t20,"Tamil Nadu Premier League",32,5,9,2018,tamil-nadu-premier-league-2018,111328,2018-07-11
+128,"2021-02-15 01:27:36","2021-02-15 01:27:36",1,domestic,TNPL,in,2019-08-18,t20,"Tamil Nadu Premier League",32,5,8,2019,tnpl-2019,113333,2019-07-19
+129,"2021-02-15 01:28:47","2021-02-15 01:28:47",1,domestic,SLSuper4,lk,2018-09-02,t20,"Sri Lanka Super Four Provincial Twenty20 Tournament",13,2,5,2018,slsfptt-18,111538,2018-08-21
