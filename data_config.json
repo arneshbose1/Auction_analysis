@@ -1,0 +1,10 @@
+{
+   "players_data": "data/players.csv",
+   "matches_data": "data/matches.csv",
+   "match_innings_data": "data/match_innings.csv",
+   "tournaments_data": "data/tournaments.csv",
+   "teams_data": "data/teams.csv",
+   "bbb_data": "data/match_ball_events.csv",
+   "batting_scorecard_data": "data/match_scores_batting.csv",
+   "bowling_scorecard_data": "data/match_scores_bowling.csv"
+}

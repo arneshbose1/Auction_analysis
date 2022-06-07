@@ -1,0 +1,323 @@
+player_pkey,Player,Team,Year,isOverseas,isBatsman,isBowler,isWicketKeeper,isCapped,UncappedAndPerformed,base,Amount
+219,Aaron Finch,Royal Challengers Bangalore,2020,1,1,0,0,1,0,2,4.4
+217,Abdul Samad,Sunrisers Hyderabad,2020,0,1,1,0,0,0,0.2,0.2
+1944,Abhijeet Tomar,Kolkata Knight Riders,2022,0,1,0,0,0,0,0.2,0.4
+0,Abhinav Sadarangani,Gujarat Titans,2022,0,1,0,0,0,0,0.2,2.6
+76,Abhishek Sharma,Sunrisers Hyderabad,2022,0,1,1,0,0,1,0.2,6.5
+100,Adam Milne,Chennai Super Kings,2022,1,0,1,0,1,0,1.5,1.9
+100,Adam Milne,Mumbai Indians,2021,1,0,1,0,1,0,1.5,3.2
+654,Aiden Markram,Sunrisers Hyderabad,2022,1,1,0,0,1,0,1,2.6
+187,Ajinkya Rahane,Kolkata Knight Riders,2022,0,1,0,0,1,0,1,1
+2536,Akash Deep,Royal Challengers Bangalore,2022,0,0,1,0,0,0,0.2,0.2
+2680,Akash Singh,Rajasthan Royals,2021,0,0,1,0,0,0,0.2,0.2
+2680,Akash Singh,Rajasthan Royals,2020,0,0,1,0,0,0,0.2,0.2
+210,Alex Carey,Delhi Capitals,2020,1,0,0,1,1,0,2,2.4
+281,Alex Hales,Kolkata Knight Riders,2022,1,1,0,0,1,0,1.5,1.5
+108,Alzarri Joseph,Gujarat Titans,2022,1,0,1,0,1,0,0.75,2.4
+3787,Aman Khan,Kolkata Knight Riders,2022,0,1,1,0,0,0,0.2,0.2
+27,Ambati Rayudu,Chennai Super Kings,2022,0,0,0,1,1,0,2,6.75
+179,Andrew Tye,Rajasthan Royals,2020,1,0,1,0,1,0,1,1
+0,Aneeshwar Gautam,Royal Challengers Bangalore,2022,0,1,1,0,0,0,0.2,0.2
+232,Anirudha Ashok Joshi,Rajasthan Royals,2020,0,1,1,0,0,0,0.2,0.2
+176,Ankit Singh Rajpoot,Lucknow Super Giants,2022,0,0,1,0,0,0,0.2,0.5
+149,Anmolpreet Singh,Mumbai Indians,2022,0,1,0,0,0,0,0.2,0.2
+2794,Ansh Patel,Punjab Kings,2022,0,1,1,0,0,0,0.2,0.2
+231,Anuj Rawat,Royal Challengers Bangalore,2022,0,0,0,1,0,0,0.2,3.4
+231,Anuj Rawat,Rajasthan Royals,2020,0,0,0,1,0,0,0.2,0.8
+132,Anukul Roy,Kolkata Knight Riders,2022,0,1,1,0,0,0,0.2,0.2
+0,Anunay Singh,Rajasthan Royals,2022,0,1,1,0,0,0,0.2,0.2
+2893,Arjun Tendulkar,Mumbai Indians,2022,0,1,1,0,0,0,0.2,0.3
+2893,Arjun Tendulkar,Mumbai Indians,2021,0,1,1,0,0,0,0.2,0.2
+2265,Aryan Juyal,Mumbai Indians,2022,0,0,0,1,0,0,0.2,0.2
+0,Ashok Sharma,Kolkata Knight Riders,2022,0,0,1,0,0,0,0.2,0.55
+3484,Ashwin Hebbar,Delhi Capitals,2022,0,1,0,0,0,0,0.2,0.2
+2637,Atharva Taide,Punjab Kings,2022,0,1,1,0,0,0,0.2,0.2
+112,Avesh Khan,Lucknow Super Giants,2022,0,0,1,0,1,0,0.2,10
+2889,Ayush Badoni,Lucknow Super Giants,2022,0,1,1,0,0,0,0.2,0.2
+4306,B. Sai Sudharsan,Gujarat Titans,2022,0,1,1,0,0,0,0.2,0.2
+2332,Baba Indrajith,Kolkata Knight Riders,2022,0,0,0,1,0,0,0.2,0.2
+2175,Baltej Dhanda,Punjab Kings,2022,0,0,1,0,0,0,0.2,0.2
+73,Basil Thampi,Mumbai Indians,2022,0,0,1,0,0,0,0.3,0.3
+138,Ben Cutting,Kolkata Knight Riders,2021,1,1,1,0,1,0,0.5,0.75
+869,Benny Howell,Punjab Kings,2022,1,1,1,0,0,0,0.4,0.4
+688,Bhanuka Rajapaksa,Punjab Kings,2022,1,1,0,0,0,0,0.5,0.5
+66,Bhuvneshwar Kumar,Sunrisers Hyderabad,2022,0,0,1,0,1,0,2,4.2
+2334,C Hari Nishaanth,Chennai Super Kings,2021,0,1,0,0,0,0,0.2,0.2
+2334,C.Hari Nishaanth,Chennai Super Kings,2022,0,1,0,0,0,0,0.2,0.2
+2296,Chama Milind,Royal Challengers Bangalore,2022,0,0,1,0,0,0,0.2,0.25
+4440,Chamika Karunaratne,Kolkata Knight Riders,2022,1,1,1,0,1,0,0.5,0.5
+1970,Chetan Sakariya,Delhi Capitals,2022,0,0,1,0,0,1,0.5,4.2
+1970,Chetan Sakariya,Rajasthan Royals,2021,0,0,1,0,0,1,0.5,1.2
+1495,Cheteshwar Pujara,Chennai Super Kings,2021,0,1,0,0,1,0,0.5,0.5
+238,Chris Green,Kolkata Knight Riders,2020,1,1,1,0,0,0,0.2,0.2
+209,Chris Jordan,Chennai Super Kings,2022,1,1,1,0,1,0,2,3.6
+209,Chris Jordan,Kings XI Punjab,2020,1,1,1,0,1,0,2,3
+84,Chris Lynn,Mumbai Indians,2020,1,1,0,0,1,0,1,2
+274,Chris Woakes,Delhi Capitals,2020,1,1,1,0,1,0,1,1.5
+113,Christopher Morris,Rajasthan Royals,2021,1,1,1,0,1,0,2,16.25
+113,Christopher Morris,Royal Challengers Bangalore,2020,1,1,1,0,1,0,2,10
+34,Dale Steyn,Royal Challengers Bangalore,2020,1,0,1,0,1,0,1,2
+257,Dan Christian,Royal Challengers Bangalore,2021,1,1,1,0,1,0,2,4.8
+208,Daniel Sams,Mumbai Indians,2022,1,1,1,0,1,0,1,2.6
+169,Darshan Nalkande,Gujarat Titans,2022,0,1,1,0,0,0,0.2,0.2
+500,Daryl Mitchell,Rajasthan Royals,2022,1,1,1,0,1,0,0.75,0.75
+181,David Miller,Gujarat Titans,2022,1,1,0,0,1,0,1,3
+181,David Miller,Rajasthan Royals,2020,1,1,0,0,1,0,0.75,0.75
+72,David Warner,Delhi Capitals,2022,1,1,0,0,1,0,2,6.25
+13,David Willey,Royal Challengers Bangalore,2022,1,1,1,0,1,0,2,2
+385,Dawid Malan,Punjab Kings,2021,1,1,1,0,1,0,1,1.5
+2,Deepak Chahar,Chennai Super Kings,2022,0,0,1,0,1,0,2,14
+87,Deepak Hooda,Lucknow Super Giants,2022,0,1,1,0,1,0,0.75,5.75
+87,Deepak Hooda,Kings XI Punjab,2020,0,1,1,0,1,0,0.5,0.5
+50,Devdutt Padikkal,Rajasthan Royals,2022,0,1,0,0,1,0,2,7.75
+637,Devon Conway,Chennai Super Kings,2022,1,1,0,0,1,0,1,1
+0,Dewald Brevis,Mumbai Indians,2022,1,1,0,0,0,1,0.2,3
+2812,Dhruv Jurel,Rajasthan Royals,2022,0,0,0,1,0,0,0.2,0.2
+200,Digvijay Deshmukh,Mumbai Indians,2020,0,1,1,0,0,0,0.2,0.2
+97,Dinesh Karthik,Royal Challengers Bangalore,2022,0,0,0,1,1,0,2,5.5
+909,Dominic Drakes,Gujarat Titans,2022,1,1,1,0,1,0,0.75,1.1
+286,Dushmanta Chameera,Lucknow Super Giants,2022,1,0,1,0,1,0,0.5,2
+400,Dwaine Pretorius,Chennai Super Kings,2022,1,1,1,0,1,0,0.5,0.5
+41,Dwayne Bravo,Chennai Super Kings,2022,1,1,1,0,1,0,2,4.4
+39,Eoin Morgan,Kolkata Knight Riders,2020,1,1,0,0,1,0,2,5.25
+103,Evin Lewis,Lucknow Super Giants,2022,1,1,0,0,1,0,2,2
+224,Fabian Allen,Mumbai Indians,2022,1,1,1,0,1,0,0.75,0.75
+224,Fabian Allen,Punjab Kings,2021,1,1,1,0,1,0,0.75,0.75
+224,Fabian Allen,Sunrisers Hyderabad,2020,1,1,1,0,1,0,0.5,0.5
+19,Faf Du Plessis,Royal Challengers Bangalore,2022,1,1,0,0,1,0,2,7
+4147,Fazalhaq Farooqi,Sunrisers Hyderabad,2022,1,0,1,0,1,0,0.5,0.5
+3151,Finn Allen,Royal Challengers Bangalore,2022,1,1,0,0,1,0,0.5,0.8
+214,Glenn Maxwell,Royal Challengers Bangalore,2021,1,1,1,0,1,0,2,14.25
+214,Glenn Maxwell,Kings XI Punjab,2020,1,1,1,0,1,0,2,10.75
+544,Glenn Phillips,Sunrisers Hyderabad,2022,1,0,0,1,1,0,1.5,1.5
+14,Gurkeerat Singh Mann,Gujarat Titans,2022,0,1,1,0,0,0,0.5,0.5
+30,Harbhajan Singh,Kolkata Knight Riders,2021,0,0,1,0,1,0,1,2
+168,Harpreet Brar,Punjab Kings,2022,0,1,1,0,0,0,0.2,3.8
+127,Harshal Patel,Royal Challengers Bangalore,2022,0,1,1,0,1,0,2,10.75
+0,Hrithik Shokeen,Mumbai Indians,2022,0,1,1,0,0,0,0.2,0.2
+137,Ishan Kishan,Mumbai Indians,2022,0,0,0,1,1,0,2,15.25
+215,Ishan Porel,Punjab Kings,2022,0,0,1,0,0,1,0.2,0.25
+221,Isuru Udana,Royal Challengers Bangalore,2020,1,1,1,0,0,1,0.5,0.5
+7,Jagadeesha Suchith,Sunrisers Hyderabad,2022,0,0,1,0,0,1,0.2,0.2
+7,Jagadeesha Suchith,Sunrisers Hyderabad,2021,0,0,1,0,0,1,0.2,0.3
+130,Jalaj Saxena,Punjab Kings,2021,0,1,1,0,0,1,0.2,0.3
+211,James Neesham,Rajasthan Royals,2022,1,1,1,0,1,0,1.5,1.5
+211,James Neesham,Mumbai Indians,2021,1,1,1,0,1,0,0.5,0.5
+211,James Neesham,Kings XI Punjab,2020,1,1,1,0,1,0,0.5,0.5
+135,Jason Behrendorff,Royal Challengers Bangalore,2022,1,0,1,0,1,0,0.75,0.75
+242,Jason Holder,Lucknow Super Giants,2022,1,1,1,0,1,0,1.5,8.75
+264,Jason Roy,Gujarat Titans,2022,1,1,0,0,1,0,2,2
+264,Jason Roy,Delhi Capitals,2020,1,1,0,0,1,0,1,1.5
+128,Jayant Yadav,Gujarat Titans,2022,0,1,1,0,1,0,1,1.7
+175,Jaydev Unadkat,Mumbai Indians,2022,0,0,1,0,1,0,0.75,1.3
+175,Jaydev Unadkat,Rajasthan Royals,2020,0,0,1,0,1,0,0.75,3
+375,Jhye Richardson,Punjab Kings,2021,1,0,1,0,1,0,2,14
+2060,Jitesh Sharma,Punjab Kings,2022,0,0,0,1,0,0,0.2,0.2
+178,Jofra Archer,Mumbai Indians,2022,1,1,1,0,1,0,2,8
+54,Jonny Bairstow,Punjab Kings,2022,1,0,0,1,1,0,1.5,6.75
+202,Josh Hazlewood,Royal Challengers Bangalore,2022,1,0,1,0,1,0,2,7.75
+54,Josh Hazlewood,Chennai Super Kings,2020,1,0,1,0,1,0,2,2
+222,Joshua Philippe,Royal Challengers Bangalore,2020,1,0,0,1,1,0,0.2,0.2
+4452,K.Bhagath Varma,Chennai Super Kings,2022,0,1,1,0,0,0,0.2,0.2
+4452,K.Bhagath Varma,Chennai Super Kings,2021,0,1,1,0,0,0,0.2,0.2
+95,K.C Cariappa,Rajasthan Royals,2022,0,0,1,0,0,0,0.2,0.3
+95,K.C Cariappa,Rajasthan Royals,2021,0,0,1,0,0,0,0.2,0.2
+4,K.M. Asif,Chennai Super Kings,2022,0,0,1,0,0,0,0.2,0.2
+2145,K.S. Bharat,Delhi Capitals,2022,0,0,0,1,0,1,0.2,2
+126,Kagiso Rabada,Punjab Kings,2022,1,0,1,0,1,0,2,9.25
+70,Kamlesh Nagarkoti,Delhi Capitals,2022,0,1,1,0,0,1,0.4,1.1
+376,Kane Richardson,Royal Challengers Bangalore,2020,1,0,1,0,1,0,2,4
+2193,Karan Sharma,Lucknow Super Giants,2022,0,1,1,0,0,0,0.2,0.2
+2193,Karn Sharma,Royal Challengers Bangalore,2022,0,0,1,0,0,0,0.5,0.5
+234,Kartik Tyagi,Sunrisers Hyderabad,2022,0,0,1,0,0,1,0.2,4
+234,Kartik Tyagi,Rajasthan Royals,2020,0,0,1,0,0,1,0.2,1.3
+166,Karun Nair,Rajasthan Royals,2022,0,1,0,0,1,0,0.5,1.4
+166,Karun Nair,Kolkata Knight Riders,2021,0,1,0,0,1,0,0.5,0.5
+46,Kedar Jadhav,Sunrisers Hyderabad,2021,0,1,1,0,1,0,1,2
+2145,Kona Srikar Bharat,Royal Challengers Bangalore,2021,0,0,0,1,0,0,0.2,0.2
+4412,Krishnappa Gowtham,Lucknow Super Giants,2022,0,1,1,0,0,0,0.5,0.9
+4412,Krishnappa Gowtham,Chennai Super Kings,2021,0,1,1,0,0,1,0.5,9.25
+143,Krunal Pandya,Lucknow Super Giants,2022,0,1,1,0,1,0,2,8.25
+2411,Kuldeep Sen,Rajasthan Royals,2022,0,0,1,0,0,0,0.2,0.2
+64,Kuldeep Yadav,Delhi Capitals,2022,0,0,1,0,1,0,1,2
+4446,Kuldip Yadav,Rajasthan Royals,2022,0,0,1,0,0,0,0.2,0.2
+4446,Kuldip Yadav,Rajasthan Royals,2021,0,0,1,0,0,0,0.2,0.2
+640,Kyle Jamieson,Royal Challengers Bangalore,2021,1,1,1,0,1,0,2,15
+701,Kyle Mayers,Lucknow Super Giants,2022,1,1,1,0,1,0,0.5,0.5
+2903,Lalit Yadav,Delhi Capitals,2022,0,1,1,0,0,0,0.2,0.65
+2903,Lalit Yadav,Delhi Capitals,2020,0,1,1,0,0,0,0.2,0.2
+172,Liam Livingstone,Punjab Kings,2022,1,1,1,0,1,0,1,11.5
+172,Liam Livingstone,Rajasthan Royals,2021,1,1,1,0,1,0,1,0.75
+96,Lockie Ferguson,Gujarat Titans,2022,1,0,1,0,1,0,2,10
+1902,Lukman Hussain Meriwala,Delhi Capitals,2021,0,0,1,0,0,0,0.2,0.2
+49,Lungisani Ngidi,Delhi Capitals,2022,1,0,1,0,1,0,0.5,0.5
+2239,Luvnith Sisodia,Royal Challengers Bangalore,2022,0,0,0,1,0,0,0.2,0.2
+239,M Siddharth,Delhi Capitals,2021,0,0,1,0,0,0,0.2,0.2
+239,M Siddharth,Kolkata Knight Riders,2020,0,0,1,0,0,0,0.2,0.2
+2154,M. Harisankar Reddy,Chennai Super Kings,2021,0,0,1,0,0,0,0.2,0.2
+0,Maheesh Theekshana,Chennai Super Kings,2022,1,0,1,0,0,0,0.5,0.7
+183,Mahipal Lomror,Royal Challengers Bangalore,2022,0,1,1,0,0,0,0.4,0.95
+159,Manan Vohra,Lucknow Super Giants,2022,0,1,0,0,0,0,0.2,0.2
+162,Mandeep Singh,Delhi Capitals,2022,0,1,0,0,0,1,0.5,1.1
+62,Manish Pandey,Lucknow Super Giants,2022,0,1,0,0,1,0,1,4.6
+666,Marco Jansen,Sunrisers Hyderabad,2022,1,1,1,0,0,0,0.5,4.2
+666,Marco Jansen,Mumbai Indians,2021,1,1,1,0,1,0,0.2,0.2
+29,Marcus Stoinis,Delhi Capitals,2020,1,1,1,0,1,0,2,4.8
+249,Mark Wood,Lucknow Super Giants,2022,1,0,1,0,1,0,2,7.5
+390,Matthew Wade,Gujarat Titans,2022,1,0,0,1,1,0,2,2.4
+133,Mayank Markande,Mumbai Indians,2022,0,0,1,0,0,0,0.5,0.65
+0,Mayank Yadav,Lucknow Super Giants,2022,0,0,1,0,0,0,0.2,0.2
+229,Mitchell Marsh,Delhi Capitals,2022,1,1,1,0,1,0,2,6.5
+229,Mitchell Marsh,Sunrisers Hyderabad,2020,1,1,1,0,1,0,2,2
+51,Mitchell Santner,Chennai Super Kings,2022,1,1,1,0,1,0,1,1.9
+12,Moeen Ali,Chennai Super Kings,2021,1,1,1,0,1,0,2,7
+75,Mohammad Nabi,Kolkata Knight Riders,2022,1,1,1,0,1,0,1,1
+160,Mohammad Shami,Gujarat Titans,2022,0,0,1,0,1,0,2,6.25
+2421,Mohammed Azharudeen,Royal Challengers Bangalore,2021,0,0,0,1,0,0,0.2,0.2
+2994,Mohd. Arshad Khan,Mumbai Indians,2022,0,1,1,0,0,0,0.2,0.2
+38,Mohit Sharma,Delhi Capitals,2020,0,0,1,0,0,0,0.2,0.5
+203,Mohsin Khan,Lucknow Super Giants,2022,0,0,1,0,0,1,0.2,0.2
+203,Mohsin Khan,Mumbai Indians,2020,0,0,1,0,0,0,0.2,0.2
+197,Moises Henriques,Punjab Kings,2021,1,1,1,0,1,0,1,4.2
+0,Mujeeb Zadran,Sunrisers Hyderabad,2021,1,0,1,0,1,0,1,1.5
+2618,Mukesh Choudhary,Chennai Super Kings,2022,0,0,1,0,0,0,0.2,0.2
+189,Murugan Ashwin,Mumbai Indians,2022,0,0,1,0,0,1,0.2,1.6
+248,Mustafizur Rahman,Delhi Capitals,2022,1,0,1,0,1,0,2,2
+248,Mustafizur Rahman,Rajasthan Royals,2021,1,0,1,0,1,0,1,1
+43,N. Jagadeesan,Chennai Super Kings,2022,0,0,0,1,0,0,0.2,0.2
+2529,N. Tilak Varma,Mumbai Indians,2022,0,1,1,0,0,1,0.2,1.7
+48,Nathan Coulter-Nile,Rajasthan Royals,2022,1,0,1,0,1,0,2,2
+48,Nathan Coulter-Nile,Mumbai Indians,2021,1,0,1,0,1,0,2,5
+48,Nathan Coulter-Nile,Mumbai Indians,2020,1,0,1,0,1,0,2,8
+837,Nathan Ellis,Punjab Kings,2022,1,0,1,0,1,0,0.75,0.75
+10,Navdeep Saini,Rajasthan Royals,2022,0,0,1,0,1,0,0.75,2.6
+198,Nicolas Pooran,Sunrisers Hyderabad,2022,1,0,0,1,1,0,1.5,10.75
+0,Nikhil Shankar Naik,Kolkata Knight Riders,2020,0,0,0,1,0,0,0.2,0.2
+60,Nitish Rana,Kolkata Knight Riders,2022,0,1,1,0,0,1,1,8
+870,Noor Ahmad,Gujarat Titans,2022,1,0,1,0,0,0,0.3,0.3
+529,Obed Mccoy,Rajasthan Royals,2022,1,0,1,0,1,0,0.75,0.75
+702,Odean Smith,Punjab Kings,2022,1,1,1,0,1,0,1,6
+182,Oshane Thomas,Rajasthan Royals,2020,1,0,1,0,0,0,0.5,0.5
+241,Pat Cummins,Kolkata Knight Riders,2022,1,1,1,0,1,0,2,7.25
+241,Pat Cummins,Kolkata Knight Riders,2020,1,1,1,0,1,0,2,15.5
+226,Pavan Deshpande,Royal Challengers Bangalore,2020,0,1,1,0,0,0,0.2,0.2
+26,Pawan Negi,Kolkata Knight Riders,2021,0,1,1,0,0,0,0.2,0.5
+92,Piyush Chawla,Mumbai Indians,2021,0,0,1,0,1,0,1,2.4
+92,Piyush Chawla,Chennai Super Kings,2020,0,0,1,0,1,0,2,6.75
+2817,Prabhsimran Singh,Punjab Kings,2022,0,0,0,1,0,0,0.2,0.6
+2817,Prabhsimran Singh,Kings XI Punjab,2020,0,0,0,1,0,0,0.2,0.55
+252,Pradeep Sangwan,Gujarat Titans,2022,0,1,1,0,0,0,0.2,0.2
+0,Prashant Solanki,Chennai Super Kings,2022,0,0,1,0,0,0,0.2,1.2
+81,Prasidh Krishna,Rajasthan Royals,2022,0,0,1,0,1,0,1,10
+2321,Pratham Singh,Kolkata Knight Riders,2022,0,1,0,0,0,0,0.2,0.2
+244,Pravin Dubey,Delhi Capitals,2022,0,1,1,0,0,0,0.2,0.5
+952,Pravin Tambe,Kolkata Knight Riders,2020,0,0,1,0,0,0,0.2,0.2
+1978,Prerak Mankad,Punjab Kings,2022,0,1,1,0,0,0,0.2,0.2
+204,Prince Balwant Rai Singh,Mumbai Indians,2020,0,1,1,0,0,0,0.2,0.2
+227,Priyam Garg,Sunrisers Hyderabad,2022,0,1,0,0,0,1,0.2,0.2
+227,Priyam Garg,Sunrisers Hyderabad,2020,0,1,0,0,0,1,1,1.9
+106,Quinton De Kock,Lucknow Super Giants,2022,1,0,0,1,1,0,2,6.75
+1988,R Samarth,Sunrisers Hyderabad,2022,0,1,0,0,0,0,0.2,0.2
+191,R. Ashwin,Rajasthan Royals,2022,0,1,1,0,1,0,2,5
+201,R. Sai Kishore,Gujarat Titans,2022,0,0,1,0,0,1,0.2,3
+201,R. Sai Kishore,Chennai Super Kings,2020,0,0,1,0,0,0,0.2,0.2
+2863,Rahul Buddhi,Mumbai Indians,2022,0,1,0,0,0,0,0.2,0.2
+123,Rahul Chahar,Punjab Kings,2022,0,0,1,0,1,0,0.75,5.25
+131,Rahul Tewatia,Gujarat Titans,2022,0,1,1,0,1,0,0.4,9
+194,Rahul Tripathi,Sunrisers Hyderabad,2022,0,1,0,0,0,1,0.4,8.5
+194,Rahul Tripathi,Kolkata Knight Riders,2020,0,1,0,0,0,0,0.4,0.6
+0,Raj Angad Bawa,Punjab Kings,2022,0,1,1,0,0,0,0.2,2
+1943,Rajat Patidar,Royal Challengers Bangalore,2021,0,1,0,0,0,0,0.2,0.2
+2856,Rajvardhan Hangargekar,Chennai Super Kings,2022,0,1,1,0,0,0,0.3,1.5
+2573,Ramandeep Singh,Mumbai Indians,2022,0,1,1,0,0,0,0.2,0.2
+0,Ramesh Kumar,Kolkata Knight Riders,2022,0,1,0,0,0,0,0.2,0.2
+0,Rasikh Dar,Kolkata Knight Riders,2022,0,0,1,0,0,0,0.2,0.2
+402,Rassie Van Der Dussen,Rajasthan Royals,2022,1,1,0,0,1,0,1,1
+213,Ravi Bishnoi,Kings XI Punjab,2020,0,0,1,0,1,0,1,2
+388,Riley Meredith,Mumbai Indians,2022,1,0,1,0,1,0,1,1
+388,Riley Meredith,Punjab Kings,2021,1,0,1,0,1,0,1,8
+91,Rinku Singh,Kolkata Knight Riders,2022,0,1,0,0,0,0,0.2,0.55
+2600,Ripal Patel,Delhi Capitals,2022,0,1,1,0,0,0,0.2,0.2
+2600,Ripal Patel,Delhi Capitals,2021,0,1,1,0,0,0,0.2,0.2
+1954,Rishi Dhawan,Punjab Kings,2022,0,1,1,0,0,0,0.5,0.55
+151,Riyan Parag,Rajasthan Royals,2022,0,1,1,0,0,1,0.3,3.8
+61,Robin Uthappa,Chennai Super Kings,2022,0,1,0,0,1,0,2,2
+61,Robin Uthappa,Rajasthan Royals,2020,0,1,0,0,1,0,2,3
+543,Romario Shepherd,Sunrisers Hyderabad,2022,1,1,1,0,1,0,0.75,7.75
+450,Rovman Powell,Delhi Capitals,2022,1,1,0,0,1,0,0.75,2.8
+279,Sachin Baby,Royal Challengers Bangalore,2021,0,1,0,0,0,0,0.2,0.2
+20,Sam Billings,Kolkata Knight Riders,2022,1,0,0,1,1,0,2,2
+20,Sam Billings,Delhi Capitals,2021,1,0,0,1,1,0,2,2
+184,Sam Curran,Chennai Super Kings,2020,1,1,1,0,1,0,2,5.5
+228,Sandeep Bavanaka,Sunrisers Hyderabad,2020,1,1,1,0,0,0,0.2,0.2
+71,Sandeep Sharma,Punjab Kings,2022,0,0,1,0,0,0,0.5,0.5
+223,Sanjay Yadav,Mumbai Indians,2022,0,1,1,0,0,0,0.2,0.5
+223,Sanjay Yadav,Sunrisers Hyderabad,2020,0,1,1,0,0,0,0.2,0.2
+190,Sarfaraz Khan,Delhi Capitals,2022,0,1,1,0,0,0,0.2,0.2
+4450,Saurabh Dubey,Sunrisers Hyderabad,2022,0,0,1,0,0,0,0.2,0.2
+2170,Saurabh Kumar,Punjab Kings,2021,0,1,1,0,0,0,0.2,0.2
+199,Saurabh Tiwary,Mumbai Indians,2020,0,1,0,0,0,0,0.2,0.5
+387,Sean Abbott,Sunrisers Hyderabad,2022,1,0,1,0,1,0,0.75,2.4
+218,Shahbaz Ahamad,Royal Challengers Bangalore,2022,0,1,1,0,0,1,0.3,2.4
+218,Shahbaz Ahamad,Royal Challengers Bangalore,2020,0,0,0,1,0,0,0.2,0.2
+67,Shahbaz Nadeem,Lucknow Super Giants,2022,0,0,1,0,0,0,0.5,0.5
+2333,Shahrukh Khan,Punjab Kings,2022,0,1,1,0,0,1,0.4,9
+2333,Shahrukh Khan,Punjab Kings,2021,0,1,1,0,0,1,0.5,5.25
+94,Shakib Al Hasan,Kolkata Knight Riders,2021,1,1,1,0,1,0,1.5,3.2
+40,Shardul Thakur,Delhi Capitals,2022,0,0,1,0,1,0,2,10.75
+157,Shashank Singh,Sunrisers Hyderabad,2022,0,1,1,0,0,0,0.2,0.2
+216,Sheldon Cottrell,Kings XI Punjab,2020,1,0,1,0,1,0,2,8.5
+1974,Sheldon Jackson,Kolkata Knight Riders,2022,0,0,0,1,0,0,0.3,0.6
+1974,Sheldon Jackson,Kolkata Knight Riders,2021,0,0,0,1,0,0,0.2,0.2
+125,Sherfane Rutherford,Royal Challengers Bangalore,2022,1,1,1,0,1,0,1,1
+110,Shikhar Dhawan,Punjab Kings,2022,0,1,0,0,1,0,2,8.25
+44,Shimron Hetmyer,Rajasthan Royals,2022,1,1,0,0,1,0,1.5,8.5
+44,Shimron Hetmyer,Delhi Capitals,2020,1,1,0,0,1,0,1.5,7.75
+35,Shivam Dube,Chennai Super Kings,2022,0,1,1,0,0,1,0.5,4
+35,Shivam Dube,Rajasthan Royals,2021,0,1,1,0,0,1,0.5,4.4
+80,Shivam Mavi,Kolkata Knight Riders,2022,0,1,1,0,0,1,0.4,7.25
+196,Shreyas Gopal,Sunrisers Hyderabad,2022,0,0,1,0,0,0,0.2,0.75
+142,Shreyas Iyer,Kolkata Knight Riders,2022,0,1,0,0,1,0,2,12.25
+0,Shubham Garhwal,Rajasthan Royals,2022,0,1,1,0,0,0,0.2,0.2
+98,Siddharth Kaul,Royal Challengers Bangalore,2022,0,0,1,0,0,0,0.75,0.75
+2598,Simarjeet Singh,Chennai Super Kings,2022,0,0,1,0,0,0,0.2,0.2
+170,Steven Smith,Delhi Capitals,2021,1,1,0,0,1,0,2,2.2
+2116,Subhranshu Senapati,Chennai Super Kings,2022,0,1,0,0,0,0,0.2,0.2
+2486,Suyash Prabhudesai,Royal Challengers Bangalore,2021,0,1,1,0,0,0,0.2,0.2
+2486,Suyash Prabhudessai,Royal Challengers Bangalore,2022,0,1,1,0,0,0,0.2,0.3
+85,Syed Khaleel Ahmed,Delhi Capitals,2022,0,0,1,0,0,1,0.5,5.25
+59,T. Natarajan,Sunrisers Hyderabad,2022,0,0,1,0,1,0,1,4
+207,Tajinder Dhillon,Kings XI Punjab,2020,0,1,1,0,0,0,0.2,0.2
+2177,Tejas Baroka,Rajasthan Royals,2022,0,0,1,0,0,0,0.2,0.2
+803,Tim David,Mumbai Indians,2022,1,1,1,0,1,0,0.4,8.25
+243,Tim Seifert,Delhi Capitals,2022,1,0,0,1,0,0,0.5,0.5
+52,Tim Southee,Kolkata Knight Riders,2022,1,0,1,0,1,0,1.5,1.5
+236,Tom Banton,Kolkata Knight Riders,2020,1,1,0,0,0,0,0.2,1
+233,Tom Curran,Delhi Capitals,2021,1,1,1,0,1,0,1,5.25
+233,Tom Curran,Rajasthan Royals,2020,1,1,1,0,1,0,1,1
+101,Trent Boult,Rajasthan Royals,2022,1,0,1,0,1,0,2,8
+206,Tushar Deshpande,Chennai Super Kings,2022,0,0,1,0,0,0,0.2,0.2
+206,Tushar Deshpande,Delhi Capitals,2020,0,0,1,0,0,0,0.2,0.2
+531,Tymal Mills,Mumbai Indians,2022,1,0,1,0,1,0,1,1.5
+37,Umesh Yadav,Kolkata Knight Riders,2022,0,0,1,0,1,0,2,2
+37,Umesh Yadav,Delhi Capitals,2021,0,0,1,0,1,0,1,1
+2304,Utkarsh Singh,Punjab Kings,2021,0,1,1,0,0,0,0.2,0.2
+2829,Vaibhav Arora,Punjab Kings,2022,0,0,1,0,0,0,0.2,2
+2829,Vaibhav Arora,Kolkata Knight Riders,2021,0,0,1,0,0,0,0.2,0.2
+163,Varun Aaron,Gujarat Titans,2022,0,0,1,0,0,0,0.5,0.5
+164,Varun Chakaravarthy,Kolkata Knight Riders,2020,0,1,1,0,1,0,1,4
+1941,Venkatesh Iyer,Kolkata Knight Riders,2022,0,1,1,0,1,0,2,8
+0,Vicky Ostwal,Delhi Capitals,2022,0,1,1,0,0,0,0.2,0.2
+99,Vijay Shankar,Gujarat Titans,2022,0,1,1,0,1,0,0.5,1.4
+220,Virat Singh,Sunrisers Hyderabad,2020,0,1,0,0,0,0,0.5,1.9
+2096,Vishnu Vinod,Sunrisers Hyderabad,2022,0,0,0,1,0,0,0.2,0.5
+2096,Vishnu Vinod,Delhi Capitals,2021,0,0,0,1,0,0,0.2,0.2
+550,Wanindu Hasaranga,Royal Challengers Bangalore,2022,1,1,1,0,1,0,1,10.75
+25,Washington Sundar,Sunrisers Hyderabad,2022,0,1,1,0,1,0,1.5,8.75
+68,Wriddhiman Saha,Gujarat Titans,2022,0,0,0,1,1,0,1,1.9
+2139,Writtick Chatterjee,Punjab Kings,2022,0,1,1,0,0,0,0.2,0.2
+2267,Yash Dayal,Gujarat Titans,2022,0,0,1,0,0,0,0.2,3.2
+0,Yash Dhull,Delhi Capitals,2022,0,1,1,0,0,0,0.2,0.5
+230,Yashasvi Jaiswal,Rajasthan Royals,2020,0,1,1,0,0,1,1,2.4
+2579,Yudhvir Charak,Mumbai Indians,2021,0,1,1,0,0,0,0.2,0.2
+39,Yuzvendra Chahal,Rajasthan Royals,2022,0,0,1,0,1,0,2,6.5
