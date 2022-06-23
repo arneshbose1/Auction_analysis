@@ -5,12 +5,12 @@
 
 Run the files in the following order
 
-1-Powerplay_Analysis.ipynb : Start running this file. This file analyses the importance of powerplay with respect to the winning and losing team.
-2-Distribution_Fitting.ipynb : This file fits the distribution on the auction data from 2020 to 2022.
-3-IPL_Auction_Analysis.ipynb : This file gives key insights about the prices offered in the auctions.
-4-Categorical_regression.ipynb : This file is to fit model on just categorical variables from "data/auction_nostats.csv" as mentioned in Folder section.
-5-Price_Regression.ipynb : This file is used to fit models on entire data including stats from "data/auction_stats.csv".
-6-Interpreting_model_results.ipynb : This model loads the saved model and evaluates the results
+1. 1-Powerplay_Analysis.ipynb : Start running this file. This file analyses the importance of powerplay with respect to the winning and losing team.
+2. 2-Distribution_Fitting.ipynb : This file fits the distribution on the auction data from 2020 to 2022.
+3. 3-IPL_Auction_Analysis.ipynb : This file gives key insights about the prices offered in the auctions.
+4. 4-Categorical_regression.ipynb : This file is to fit model on just categorical variables from "data/auction_nostats.csv" as mentioned in Folder section.
+5. 5-Price_Regression.ipynb : This file is used to fit models on entire data including stats from "data/auction_stats.csv".
+6. 6-Interpreting_model_results.ipynb : This model loads the saved model and evaluates the results
 
 
 
